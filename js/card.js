@@ -14,6 +14,8 @@ anyRequest.onload = () => {
     console.log(data);
     
 }
+console.log(seks);
+
 
 
 const request = new XMLHttpRequest()
