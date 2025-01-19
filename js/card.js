@@ -14,7 +14,6 @@ anyRequest.onload = () => {
     console.log(data);
     
 }
-console.log(seks);
 
 
 
