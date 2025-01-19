@@ -50,7 +50,6 @@ const showSlide = (i = 0) => {
 hideSlide()
 showSlide(index)
 
-
 const autoSlider = (i = 0) => {
     setInterval(() => {
         i++

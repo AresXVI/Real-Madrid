@@ -13,20 +13,27 @@
     <div class="header">
         <div class="container">
             <div class="inner_header">
-                <a href="../index.html">
-                    <div class="logotype">
-                        <h2>Java<span>Script</span></h2>
-                    </div>
+                <div class="container__logo">
+                    <a href="/project/index.html">
+                    <img class="logotype" src="../img/Real Madrid LOGO.jpg" alt="RMA">
                 </a>
+                <div class="line__logo"></div>
+                <a href="../pages/trophies.html">
+                    <img class="logotype" src="../img/Liga Champions LOGO.jpg" alt="L CH">
+                </a>
+                </div>
                 <ul class="menu">
                     <li class="menu_link">
                         <a href="../pages/home_works.html">Home Works</a>
                     </li>
                     <li class="menu_link">
+                        <a href="../pages/card.html">Roster</a>
+                    </li>
+                    <li class="menu_link">
                         <a href="../pages/lessons.html">Lessons</a>
                     </li>
                     <li class="menu_link">
-                        <a href="https://t.me/NurDinBuy16" target="_blank">Send hw</a>
+                        <a href="https://www.realmadrid.com/en-US" target="_blank">Send message</a>
                     </li>
                 </ul>
                 <button class="btn" id="btn-get">Click me!</button>
@@ -40,7 +47,7 @@
             <div class="inner_phone_block">
                 <div class="form_phone">
                     <label for="phone_input">Phone Number</label>
-                    <input type="text" id="phone_input" placeholder="+996 XXX XX-XX-XX">
+                    <input type="tel" id="phone_input" placeholder="+996 XXX XX-XX-XX">
                     <button class="btn" id="phone_button">Check number</button>
                     <span class="checker" id="phone_result"></span>
                 </div>
@@ -137,6 +144,7 @@
             <div class="inner_weather">
                 <div>
                     <input type="text" class="cityName" placeholder="Найти погоду в...">
+                    <button class="btn" id="search">search</button>
                 </div>
                 <div>
                     <span class="city"></span>
@@ -162,7 +170,7 @@
     <div class="modal_dialog">
         <div class="modal_content">
             <form action="#">
-                <div class="modal_close">&times;</div>
+                <div class="modal_close">&#10006;</div>
                 <div class="modal_title">Мы свяжемся с вами как можно быстрее!</div>
                 <input required placeholder="Ваше имя" name="name" type="text" class="modal_input">
                 <input required placeholder="Ваш номер телефона" name="phone" type="phone" class="modal_input">
