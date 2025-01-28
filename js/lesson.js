@@ -68,14 +68,10 @@ const usdInput = document.querySelector('#usd');
 const eurInput = document.querySelector('#eur');
 
 const converter = (element, targetElement1, targetElement2) => {
-    element.oninput = () => {
-        const request = new XMLHttpRequest();
-        request.open('GET', '../data/convertor.json');
-        request.setRequestHeader('Content-type', 'application/json');
-        request.send();
-
-        request.onload = () => {
-            const data = JSON.parse(request.response);
+    element.oninput = async () => {
+        try {
+            const response = await fetch(`../data/convertor.json`)
+            const data = await response.json()
             if (element.id === 'som') {
                 targetElement1.value = (element.value / data.usd).toFixed(2);
                 targetElement2.value = (element.value / data.eur).toFixed(2);
@@ -89,8 +85,10 @@ const converter = (element, targetElement1, targetElement2) => {
                 targetElement1.value = '';
                 targetElement2.value = '';
             }
-        };
-    }; 
+        } catch (error) {
+            console.log(error);
+        }
+    }
 }
 converter(somInput, usdInput, eurInput)
 converter(usdInput, somInput, eurInput)
@@ -106,17 +104,19 @@ const btnNext = document.querySelector('#btn-next')
 const btnPrev = document.querySelector('#btn-prev')
 
 let cardId = 1
-let dataFun = () => {
-    fetch(`https://jsonplaceholder.typicode.com/todos/${cardId}`)   
-        .then(response => response.json())
-        .then(data => {
-            const {title, completed, id} = data
-            cardBlock.innerHTML = `
-                <p>${title}</p>
-                <p>${completed}</p>
-                <p>${id}</p>
-            `
-        })
+let dataFun = async () => {
+    try {
+        const response = await fetch(`https://jsonplaceholder.typicode.com/todos/${cardId}`)   
+        const data = await response.json()
+        const {title, completed, id} = data
+        cardBlock.innerHTML = `
+            <p>${title}</p>
+            <p>${completed}</p>
+            <p>${id}</p>
+        `
+    } catch (error) {
+        console.log(error);
+    }
 }
 dataFun()
 btnNext.onclick = () => {
