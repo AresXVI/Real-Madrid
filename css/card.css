@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.back_card {
+    background-image: linear-gradient(to bottom, #000428, rgb(14, 80, 119));
+    display: flex;
+    justify-content: center;
+}
+
+.card_container {
+    margin: 150px 0px 70px 0px;
+    padding: 20px 0px;
+    width: 76%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+
+.card {
+    width: 300px;
+    border-radius: 20px;
+}
+
+.card_img {
+    width: 100%;
+    height: 200px;
+    border-radius: 20px 20px 0px 0px;
+    background: url(https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--081447d0-e59a-47d1-a200-2f188d972960/Champions.app.webp?preferwebp=true);
+    background-position: center;
+    background-size: contain;
+}
+
+.card_text {
+    width: 100%;
+    height: 200px;
+    background: #fff;
+    font-family: "Anton", serif;
+    letter-spacing: 0.3px;
+    border-radius: 0px 0px 20px 20px;
+    padding: 5px 10px;
+}
+
+.card_text-title {
+    width: 100%;
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+
+.card_text-body {
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+}
