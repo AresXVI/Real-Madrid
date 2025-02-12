@@ -166,7 +166,6 @@
     z-index: 2;
     background: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(10px);
-    display: flex;
     display: none;
     flex-direction: column;
     justify-content: center;
@@ -185,3 +184,4 @@
     background-color: transparent;
     cursor: pointer;
 }
+
