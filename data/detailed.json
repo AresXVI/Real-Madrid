@@ -1,0 +1,1280 @@
+[
+    {
+        "number": "#9",
+        "name": "Kylian",
+        "surname": "Mbappé",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/342229-1682683695.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "34",
+        "gol_quan": "22",
+        "assist_quan": "3",
+        "minut_gol_quan": "127'",
+        "minut_quan": "2785'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/4.png?lm=1465908580",
+                "trophei_name": "Футболист года",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/5.png?lm=1465908312",
+                "trophei_name": "Лучший бомбардир",
+                "trophei_quan": "13"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/101.png?lm=1520606996",
+                "trophei_name": "Чемпоин мира",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/14.png?lm=1729163534",
+                "trophei_name": "Чемпоин Франции",
+                "trophei_quan": "7"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/kylian-mbappe/erfolge/spieler/342229"
+            }
+        ],
+        "years_old": "20 дек. 1998 г. (26)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "wasb_city": "Paris",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "country": "Франция",
+        "height": "1,78 м",
+        "amplua": "Центральный нап.",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "play_country": "Франция",
+        "match_gol": "86 / 48",
+        "on_the_team": "01 июня 2024 г.",
+        "contract_until": "30 июня 2029",
+        "player_price": "160,00"
+    },
+    {
+        "number": "#7",
+        "name": "Vinicius ",
+        "surname": "Junior",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/371998-1664869583.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "29",
+        "gol_quan": "16",
+        "assist_quan": "10",
+        "minut_gol_quan": "146'",
+        "minut_quan": "2 329'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/195.png?lm=1575286754",
+                "trophei_name": "Футболист года по версии FIFA",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/5.png?lm=1465908312",
+                "trophei_name": "Лучший бомбардир",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "3"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/vinicius-junior/erfolge/spieler/371998"
+            }
+        ],
+        "years_old": "12 июля 2000 г. (24)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "wasb_city": "São Gonçalo",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "country": "Бразилия",
+        "height": "1,76 м",
+        "amplua": "Левый Вингер",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "play_country": "Бразилия",
+        "match_gol": "37 / 5",
+        "on_the_team": "12 июля 2018 г.",
+        "contract_until": "30 июня 2027 г.",
+        "player_price": "200,00"
+    },
+    {
+        "number": "#11",
+        "name": "",
+        "surname": "Rodrygo",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/412363-1693988167.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "31",
+        "gol_quan": "12",
+        "assist_quan": "8",
+        "minut_gol_quan": "175'",
+        "minut_quan": "2094'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/rodrygo/erfolge/spieler/412363"
+            }
+        ],
+        "years_old": "09 янв. 2001 г. (24)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "wasb_city": "Osasco",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "country": "Бразилия",
+        "height": "1,74 м",
+        "amplua": "Правый Вингер",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "play_country": "Бразилия",
+        "match_gol": "31 / 7",
+        "on_the_team": "01 июля 2019 г.",
+        "contract_until": "30 июня 2028 г.",
+        "player_price": "100,00"
+    },
+    {
+        "number": "#16",
+        "name": "",
+        "surname": "Endrick",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/971570-1723665994.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "22",
+        "gol_quan": "5",
+        "assist_quan": "1",
+        "minut_gol_quan": "80'",
+        "minut_quan": "400'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/5.png?lm=1465908312",
+                "trophei_name": "Лучший бомбардир",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/262.png?lm=1466586549",
+                "trophei_name": "Brasilianischer Meister",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/648.png?lm=1654593971",
+                "trophei_name": "",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/endrick/erfolge/spieler/971570"
+            }
+        ],
+        "years_old": "21 июля 2006 г. (18)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "wasb_city": "Taguatinga",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "country": "Бразилия",
+        "height": "1,73 м",
+        "amplua": "Центральный нап.",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "play_country": "Бразилия",
+        "match_gol": "13 / 3",
+        "on_the_team": "21 июля 2024 г.",
+        "contract_until": "30 июня 2030 г.",
+        "player_price": "40,00"
+    },
+    {
+        "number": "#21",
+        "name": "Brahim ",
+        "surname": "Díaz",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/314678-1632307989.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "29",
+        "gol_quan": "3",
+        "assist_quan": "6",
+        "minut_gol_quan": "443'",
+        "minut_quan": "1330'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/12.png?lm=1520606997",
+                "trophei_name": "Чемпион Англии",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/13.png?lm=1520606997",
+                "trophei_name": "Italienischer Meister",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/brahim-diaz/erfolge/spieler/314678"
+            }
+        ],
+        "years_old": "03 авг. 1999 г. (25)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "wasb_city": "Málaga",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/107.png?lm=1520611569",
+        "country": "Марокко",
+        "height": "1,70 м",
+        "amplua": "Атак. полузащитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/107.png?lm=1520611569",
+        "play_country": "Марокко",
+        "match_gol": "8 / 7",
+        "on_the_team": "06 янв. 2019 г.",
+        "contract_until": "30 июня 2027 г.",
+        "player_price": "35,00"
+    },
+    {
+        "number": "#5",
+        "name": "Jude ",
+        "surname": "Bellingham",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/581678-1693987944.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "31",
+        "gol_quan": "10",
+        "assist_quan": "10",
+        "minut_gol_quan": "255'",
+        "minut_quan": "2550'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/256.png?lm=1623075349",
+                "trophei_name": "Fußballer des Jahres (Transfermarkt.de Userwahl)",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/31.png?lm=1465981192",
+                "trophei_name": "Лучший игрок сезона",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/jude-bellingham/erfolge/spieler/581678"
+            }
+        ],
+        "years_old": "29 июня 2003 г. (21)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/189.png?lm=1520611569",
+        "wasb_city": "Stourbridge",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/189.png?lm=1520611569",
+        "country": "Англия",
+        "height": "1,86 м",
+        "amplua": "Атак. полузащитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/189.png?lm=1520611569",
+        "play_country": "Англия",
+        "match_gol": "40 / 6",
+        "on_the_team": "01 июля 2023 г.",
+        "contract_until": "30 июня 2029 г.",
+        "player_price": "180,00"
+    },
+    {
+        "number": "#8",
+        "name": "Federico ",
+        "surname": "Valverde",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/369081-1731018042.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "37",
+        "gol_quan": "8",
+        "assist_quan": "4",
+        "minut_gol_quan": "390'",
+        "minut_quan": "3117'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/federico-valverde/erfolge/spieler/369081"
+            }
+        ],
+        "years_old": " 22 июля 1998 г. (26)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/179.png?lm=1520611569",
+        "wasb_city": "Montevideo",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/179.png?lm=1520611569",
+        "country": "Уругвай",
+        "height": "1,82 м",
+        "amplua": "Центр. полузащитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/179.png?lm=1520611569",
+        "play_country": "Уругвай",
+        "match_gol": "67 / 8",
+        "on_the_team": "01 июля 2018 г.",
+        "contract_until": "30 июня 2029 г.",
+        "player_price": "130,00"
+    },
+    {
+        "number": "#6",
+        "name": "Eduardo ",
+        "surname": "Camavinga",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/640428-1668500874.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "17",
+        "gol_quan": "1",
+        "assist_quan": "2",
+        "minut_gol_quan": "967'",
+        "minut_quan": "967'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/eduardo-camavinga/erfolge/spieler/640428"
+            }
+        ],
+        "years_old": "10 нояб. 2002 г. (22)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/6.png?lm=1520611569",
+        "wasb_city": "Cabinda",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "country": "Франция",
+        "height": "1,82 м",
+        "amplua": "Центр. полузащитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "play_country": "Франция",
+        "match_gol": "24 / 2",
+        "on_the_team": "31 авг. 2021 г.",
+        "contract_until": "30 июня 2029 г.",
+        "player_price": "80,00"
+    },
+    {
+        "number": "#10",
+        "name": "Luka ",
+        "surname": "Modric",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/27992-1687776160.jpg?lm=1",
+        "capitan_img": "https://tmsi.akamaized.net/icons/captain_1_minified.png",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "35",
+        "gol_quan": "3",
+        "assist_quan": "6",
+        "minut_gol_quan": "532'",
+        "minut_quan": "1 597'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/195.png?lm=1575286754",
+                "trophei_name": "Футболист года по версии FIFA",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/676.png?lm=1575286775",
+                "trophei_name": "Обладатель Золотого мяча",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "6"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "5"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "4"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/luka-modric/erfolge/spieler/27992"
+            }
+        ],
+        "years_old": "09 сент. 1985 г. (39)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/223.png?lm=1520611569",
+        "wasb_city": "Zadar",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/223.png?lm=1520611569",
+        "country": "Хорватия",
+        "height": "1,72 м",
+        "amplua": "Центр. полузащитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/223.png?lm=1520611569",
+        "play_country": "Хорватия",
+        "match_gol": "184 / 27",
+        "on_the_team": "27 авг. 2012 г.",
+        "contract_until": "30 июня 2025 г.",
+        "player_price": "5,00"
+    },
+    {
+        "number": "#14",
+        "name": "Aurélien ",
+        "surname": "Tchouaméni",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/413112-1668500754.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "29",
+        "gol_quan": "-",
+        "assist_quan": "1",
+        "minut_gol_quan": "-",
+        "minut_quan": "2348'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/aurelien-tchouameni/erfolge/spieler/413112"
+            }
+        ],
+        "years_old": "27 янв. 2000 г. (25",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "wasb_city": "Rouen",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "country": "Франция",
+        "height": "1,88 м",
+        "amplua": "Опорн. полузащитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "play_country": "Франция",
+        "match_gol": "36 / 3",
+        "on_the_team": "01 июля 2022 г.",
+        "contract_until": "30 июня 2028 г.",
+        "player_price": "80,00"
+    },
+    {
+        "number": "#15",
+        "name": "Arda ",
+        "surname": "Güler",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/861410-1699472585.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "27",
+        "gol_quan": "3",
+        "assist_quan": "5",
+        "minut_gol_quan": "322'",
+        "minut_quan": "967'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/5.png?lm=1465908312",
+                "trophei_name": "Лучший бомбардир",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/arda-guler/erfolge/spieler/861410"
+            }
+        ],
+        "years_old": "25 февр. 2005 г. (19)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/174.png?lm=1520611569",
+        "wasb_city": "Ankara",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/174.png?lm=1520611569",
+        "country": "Турция",
+        "height": "1,75 м",
+        "amplua": "Правый Вингер",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/174.png?lm=1520611569",
+        "play_country": "Турция",
+        "match_gol": "18 / 3",
+        "on_the_team": "06 июля 2023 г.",
+        "contract_until": "30 июня 2029 г.",
+        "player_price": "45,00"
+    },
+    {
+        "number": "#19",
+        "name": "Dani ",
+        "surname": "Ceballos",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/319745-1723666162.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "26",
+        "gol_quan": "-",
+        "assist_quan": "1",
+        "minut_gol_quan": "-",
+        "minut_quan": "1226'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/dani-ceballos/erfolge/spieler/319745"
+            }
+        ],
+        "years_old": "07 авг. 1996 г. (28)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "wasb_city": "Utrera",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "country": "Испания",
+        "height": "1,79 м",
+        "amplua": "Центр. полузащитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "play_country": "Испания",
+        "match_gol": "13 / 1",
+        "on_the_team": " 14 июля 2017 г.",
+        "contract_until": "30 июня 2027 г.",
+        "player_price": "4,00"
+    },
+    {
+        "number": "#23",
+        "name": "Ferland ",
+        "surname": "Mendy",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/291417-1701294025.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "23",
+        "gol_quan": "-",
+        "assist_quan": "-",
+        "minut_gol_quan": "-",
+        "minut_quan": "1 705'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/601.png?lm=1653914395",
+                "trophei_name": "",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/ferland-mendy/erfolge/spieler/291417"
+            }
+        ],
+        "years_old": "08 июня 1995 г. (29)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "wasb_city": "Meulan-en-Yvelines",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "country": "Франция",
+        "height": " 1,80 м",
+        "amplua": "Левый защитни",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/50.png?lm=1520611569",
+        "play_country": "Франция",
+        "match_gol": "10 / 0",
+        "on_the_team": "01 июля 2019 г.",
+        "contract_until": "30 июня 2028 г.",
+        "player_price": "18,00"
+    },
+    {
+        "number": "#22",
+        "name": "Antonio ",
+        "surname": "Rüdiger",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/86202-1684484602.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "34",
+        "gol_quan": "2",
+        "assist_quan": "1",
+        "minut_gol_quan": "1 453'",
+        "minut_quan": "2 906'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/264.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Европы",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/antonio-rudiger/erfolge/spieler/86202"
+            }
+        ],
+        "years_old": "03 марта 1993 г. (31)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/40.png?lm=1520612525",
+        "wasb_city": "Berlin",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/40.png?lm=1520612525",
+        "country": "Германия",
+        "height": "1,90 м",
+        "amplua": "Центр. защитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/40.png?lm=1520612525",
+        "play_country": "Германия",
+        "match_gol": "77 / 3",
+        "on_the_team": "01 июля 2022 г.",
+        "contract_until": "30 июня 2026 г.",
+        "player_price": "24,00"
+    },
+    {
+        "number": "#2",
+        "name": "Daniel",
+        "surname": "Carvajal",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/138927-1721026790.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "11",
+        "gol_quan": "1",
+        "assist_quan": "1",
+        "minut_gol_quan": "878'",
+        "minut_quan": "878'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/102.png?lm=1520606997",
+                "trophei_name": "Чемпион Европы",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "6"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "5"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "4"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "5"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/daniel-carvajal/erfolge/spieler/138927"
+            }
+        ],
+        "years_old": "11 янв. 1992 г. (33)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "wasb_city": "Leganés",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "country": "Испания",
+        "height": "1,73 м",
+        "amplua": "Правый защитни",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "play_country": "Испания",
+        "match_gol": "51 / 1",
+        "on_the_team": "01 июля 2013 г.",
+        "contract_until": "30 июня 2026 г.",
+        "player_price": "10,00"
+    },
+    {
+        "number": "#20",
+        "name": "Fran ",
+        "surname": "García",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/341264-1688119965.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "27",
+        "gol_quan": "-",
+        "assist_quan": "3",
+        "minut_gol_quan": "-",
+        "minut_quan": "1 515'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/601.png?lm=1653914395",
+                "trophei_name": "",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/fran-garcia/erfolge/spieler/341264"
+            }
+        ],
+        "years_old": "14 авг. 1999 г. (25)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "wasb_city": "Bolaños de ...",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "country": "Испания",
+        "height": "1,69 м",
+        "amplua": "Левый защитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "play_country": "Испания",
+        "match_gol": "2 / 0",
+        "on_the_team": "01 июля 2023 г.",
+        "contract_until": "30 июня 2027 г.",
+        "player_price": "15,00"
+    },
+    {
+        "number": "#35",
+        "name": "Raúl ",
+        "surname": "Asencio",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/935245-1731168094.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "31",
+        "gol_quan": "-",
+        "assist_quan": "1",
+        "minut_gol_quan": "-",
+        "minut_quan": "2 234'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/601.png?lm=1653914395",
+                "trophei_name": "",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/raul-asencio/profil/spieler/935245"
+            }
+        ],
+        "years_old": "13 февр. 2003 г. (21)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "wasb_city": "Las Palmas de Gran ...",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "country": "Испания",
+        "height": "1,84 м",
+        "amplua": "Центр. защитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "play_country": "Испания",
+        "match_gol": "0 / 0",
+        "on_the_team": "01 июля 2024 г",
+        "contract_until": "30 июня 2026 г.",
+        "player_price": "7,50"
+    },
+    {
+        "number": "#17 ",
+        "name": "Lucas ",
+        "surname": "Vázquez",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/221316-1536655786.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "30",
+        "gol_quan": "2",
+        "assist_quan": "5",
+        "minut_gol_quan": "974'",
+        "minut_quan": "1 947'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "5"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "4"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "4"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/lucas-vazquez/erfolge/spieler/221316"
+            }
+        ],
+        "years_old": "01 июля 1991 г. (33)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "wasb_city": "A Coruña",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "country": "Испания",
+        "height": "1,73 м",
+        "amplua": "Правый защитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/157.png?lm=1520611569",
+        "play_country": "Испания",
+        "match_gol": "9 / 0",
+        "on_the_team": "02 июля 2015 г.",
+        "contract_until": "30 июня 2025 г.",
+        "player_price": "3,50"
+    },
+    {
+        "number": "#4",
+        "name": "David ",
+        "surname": "Alaba",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/59016-1684921582.jpeg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "4",
+        "gol_quan": "-",
+        "assist_quan": "-",
+        "minut_gol_quan": "-",
+        "minut_quan": "70'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/4.png?lm=1465908580",
+                "trophei_name": "Футболист года",
+                "trophei_quan": "10"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "4"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/10.png?lm=1520606996",
+                "trophei_name": "Чемпион Германии",
+                "trophei_quan": "10"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "2"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/david-alaba/erfolge/spieler/59016"
+            }
+        ],
+        "years_old": "24 июня 1992 г. (32",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/127.png?lm=1520611569",
+        "wasb_city": "Wien",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/127.png?lm=1520611569",
+        "country": "Австрия",
+        "height": "1,80 м",
+        "amplua": "Центр. защитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/127.png?lm=1520611569",
+        "play_country": "Австрия",
+        "match_gol": "105 / 15",
+        "on_the_team": "01 июля 2021 г.",
+        "contract_until": "30 июня 2026 г.",
+        "player_price": "10,00"
+    },
+    {
+        "number": "#3",
+        "name": "Éder ",
+        "surname": "Militão",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/401530-1719653438.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6IzFiMzI1MX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc0OWYyZH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iYSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGNsYXNzPSJhIiBkPSJtNS44IDYuOTc1LjY1IDJoMi4xbC42NS0yTDcuNSA1Ljc1Wm0xLjctNC44QTUuMzI1IDUuMzI1IDAgMSAwIDEyLjgyNSA3LjUgNS4zMTMgNS4zMTMgMCAwIDAgNy41IDIuMTc1Wm0xLjg1IDcuODc1LS42IDEuOWE1LjAyOSA1LjAyOSAwIDAgMS0xLjI1LjE3NSA1LjIgNS4yIDAgMCAxLTEuMjUtLjE3NWwtLjYyNS0xLjloLTJhNC43ODUgNC43ODUgMCAwIDEtLjc3NS0yLjM3NUw0LjQ1IDYuNWwtLjYyNS0xLjlBNC41MzQgNC41MzQgMCAwIDEgNS44NSAzLjE1bDEuNiAxLjE3NSAxLjYtMS4xNzVhNC43MzMgNC43MzMgMCAwIDEgMi4wMjUgMS40NUwxMC41IDYuNTI1IDEyLjEgNy43YTQuNDA2IDQuNDA2IDAgMCAxLS43NzUgMi4zNzVIOS4zNVoiLz48L3N2Zz4=",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "17",
+        "gol_quan": "1",
+        "assist_quan": "1",
+        "minut_gol_quan": "1 311'",
+        "minut_quan": "1 311'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/106.png?lm=1461847499",
+                "trophei_name": "Copa América-Sieger",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "3"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "2"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/eder-militao/erfolge/spieler/401530"
+            }
+        ],
+        "years_old": "18 янв. 1998 г. (27)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "wasb_city": "Sertãozinho",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "country": "Бразилия",
+        "height": "1,86 м",
+        "amplua": "Центр. защитник",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/26.png?lm=1520611569",
+        "play_country": "Бразилия",
+        "match_gol": "35 / 2",
+        "on_the_team": "01 июля 2019 г.",
+        "contract_until": "30 июня 2028 г.",
+        "player_price": "40,00"
+    },
+    {
+        "number": "#1",
+        "name": "Thibaut ",
+        "surname": "Courtois",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/108390-1717280733.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PHBhdGggZmlsbD0iI0ZGQjcwMCIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBmaWxsPSIjRkZGIiBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIvPjxwYXRoIGZpbGw9IiNGRkI3MDAiIGQ9Im01LjggNi45NzUuNjUgMmgyLjFsLjY1LTJMNy41IDUuNzVabTEuNy00LjhBNS4zMjUgNS4zMjUgMCAxIDAgMTIuODI1IDcuNSA1LjMxMyA1LjMxMyAwIDAgMCA3LjUgMi4xNzVabTEuODUgNy44NzUtLjYgMS45YTUuMDI5IDUuMDI5IDAgMCAxLTEuMjUuMTc1IDUuMiA1LjIgMCAwIDEtMS4yNS0uMTc1bC0uNjI1LTEuOWgtMmE0Ljc4NSA0Ljc4NSAwIDAgMS0uNzc1LTIuMzc1TDQuNDUgNi41bC0uNjI1LTEuOUE0LjUzNCA0LjUzNCAwIDAgMSA1Ljg1IDMuMTVsMS42IDEuMTc1IDEuNi0xLjE3NWE0LjczMyA0LjczMyAwIDAgMSAyLjAyNSAxLjQ1TDEwLjUgNi41MjUgMTIuMSA3LjdhNC40MDYgNC40MDYgMCAwIDEtLjc3NSAyLjM3NUg5LjM1WiIvPjwvc3ZnPg==",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PHBhdGggZmlsbD0iI0ZGQjcwMCIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBmaWxsPSIjRkZGIiBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIvPjxwYXRoIGZpbGw9IiNGRkI3MDAiIGQ9Im01LjggNi45NzUuNjUgMmgyLjFsLjY1LTJMNy41IDUuNzVabTEuNy00LjhBNS4zMjUgNS4zMjUgMCAxIDAgMTIuODI1IDcuNSA1LjMxMyA1LjMxMyAwIDAgMCA3LjUgMi4xNzVabTEuODUgNy44NzUtLjYgMS45YTUuMDI5IDUuMDI5IDAgMCAxLTEuMjUuMTc1IDUuMiA1LjIgMCAwIDEtMS4yNS0uMTc1bC0uNjI1LTEuOWgtMmE0Ljc4NSA0Ljc4NSAwIDAgMS0uNzc1LTIuMzc1TDQuNDUgNi41bC0uNjI1LTEuOUE0LjUzNCA0LjUzNCAwIDAgMSA1Ljg1IDMuMTVsMS42IDEuMTc1IDEuNi0xLjE3NWE0LjczMyA0LjczMyAwIDAgMSAyLjAyNSAxLjQ1TDEwLjUgNi41MjUgMTIuMSA3LjdhNC40MDYgNC40MDYgMCAwIDEtLjc3NSAyLjM3NUg5LjM1WiIvPjxwYXRoIGQ9Im0uNSAxNC41IDE0LTE0IiBzdHJva2U9IiNBMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPjwvc3ZnPg==",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "29",
+        "gol_quan": "31",
+        "assist_quan": "10",
+        "minut_gol_quan": "84'",
+        "minut_quan": "2 610'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/titel/header/default.png?lm=1400476922",
+                "trophei_name": "Torhüter der Saison",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/12.png?lm=1520606997",
+                "trophei_name": "Чемпион Англии",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "4"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/thibaut-courtois/erfolge/spieler/108390"
+            }
+        ],
+        "years_old": "11 мая 1992 г. (32)",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/19.png?lm=1520611569",
+        "wasb_city": "Bree",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/19.png?lm=1520611569",
+        "country": "Бельгия",
+        "height": "2,00 м",
+        "amplua": "Вратарь",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/19.png?lm=1520611569",
+        "play_country": "Бельгия",
+        "match_gol": "102 / 0",
+        "on_the_team": "09 авг. 2018 г.",
+        "contract_until": "30 июня 2026 г.",
+        "player_price": "25,00"
+    },
+    {
+        "number": "#13",
+        "name": "Andriy",
+        "surname": "Lunin",
+        "player_photo": "https://img.a.transfermarkt.technology/portrait/header/404839-1701294131.jpg?lm=1",
+        "match_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OC41IDYwIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMUIzMjUxIiBkPSJNNDUuODUgMi41NXY1NC44SDIuNjVWMi41NXoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDMuMiA1aC0zOHY1MGgzOFY1ek0zMC40IDMwLjljLS41IDIuOC0yLjkgNS01LjggNXMtNS40LTIuMi01LjgtNWgxMS42ek0zMS4zIDd2Ni4xSDE3LjJWN2gxNC4xek0xOC44IDI5Yy41LTIuOCAyLjktNSA1LjgtNXM1LjQgMi4yIDUuOCA1SDE4Ljh6bTEzLjMgMGMtLjUtMy44LTMuNi02LjctNy41LTYuN3MtNy4xIDIuOS03LjUgNi43SDcuM1Y3aDh2OGgxNy45VjdoOC4xdjIyaC05LjJ6TTcuMyAzMC45aDkuOGMuNSAzLjggMy42IDYuNyA3LjUgNi43czcuMS0yLjkgNy41LTYuN2g5LjJ2MjJoLTguMVY0NUgxNS4zdjcuOWgtOHYtMjJ6bTI0IDIyLjFIMTcuMnYtNmgxNC4xdjZ6Ii8+PC9zdmc+",
+        "gol_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PHBhdGggZmlsbD0iI0ZGQjcwMCIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBmaWxsPSIjRkZGIiBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIvPjxwYXRoIGZpbGw9IiNGRkI3MDAiIGQ9Im01LjggNi45NzUuNjUgMmgyLjFsLjY1LTJMNy41IDUuNzVabTEuNy00LjhBNS4zMjUgNS4zMjUgMCAxIDAgMTIuODI1IDcuNSA1LjMxMyA1LjMxMyAwIDAgMCA3LjUgMi4xNzVabTEuODUgNy44NzUtLjYgMS45YTUuMDI5IDUuMDI5IDAgMCAxLTEuMjUuMTc1IDUuMiA1LjIgMCAwIDEtMS4yNS0uMTc1bC0uNjI1LTEuOWgtMmE0Ljc4NSA0Ljc4NSAwIDAgMS0uNzc1LTIuMzc1TDQuNDUgNi41bC0uNjI1LTEuOUE0LjUzNCA0LjUzNCAwIDAgMSA1Ljg1IDMuMTVsMS42IDEuMTc1IDEuNi0xLjE3NWE0LjczMyA0LjczMyAwIDAgMSAyLjAyNSAxLjQ1TDEwLjUgNi41MjUgMTIuMSA3LjdhNC40MDYgNC40MDYgMCAwIDEtLjc3NSAyLjM3NUg5LjM1WiIvPjwvc3ZnPg==",
+        "assist_img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxNSI+PHBhdGggZmlsbD0iI0ZGQjcwMCIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+PGNpcmNsZSBmaWxsPSIjRkZGIiBjeD0iNi40MjUiIGN5PSI2LjQyNSIgcj0iNi40MjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDc1IDEuMDc1KSIvPjxwYXRoIGZpbGw9IiNGRkI3MDAiIGQ9Im01LjggNi45NzUuNjUgMmgyLjFsLjY1LTJMNy41IDUuNzVabTEuNy00LjhBNS4zMjUgNS4zMjUgMCAxIDAgMTIuODI1IDcuNSA1LjMxMyA1LjMxMyAwIDAgMCA3LjUgMi4xNzVabTEuODUgNy44NzUtLjYgMS45YTUuMDI5IDUuMDI5IDAgMCAxLTEuMjUuMTc1IDUuMiA1LjIgMCAwIDEtMS4yNS0uMTc1bC0uNjI1LTEuOWgtMmE0Ljc4NSA0Ljc4NSAwIDAgMS0uNzc1LTIuMzc1TDQuNDUgNi41bC0uNjI1LTEuOUE0LjUzNCA0LjUzNCAwIDAgMSA1Ljg1IDMuMTVsMS42IDEuMTc1IDEuNi0xLjE3NWE0LjczMyA0LjczMyAwIDAgMSAyLjAyNSAxLjQ1TDEwLjUgNi41MjUgMTIuMSA3LjdhNC40MDYgNC40MDYgMCAwIDEtLjc3NSAyLjM3NUg5LjM1WiIvPjxwYXRoIGQ9Im0uNSAxNC41IDE0LTE0IiBzdHJva2U9IiNBMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPjwvc3ZnPg==",
+        "minut_img": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbD0iIzFCMzI1MSIgZD0iTTE1IDcuNUE3LjUgNy41IDAgMSAxIDcuNSAwIDcuNDkgNy40OSAwIDAgMSAxNSA3LjVaIi8+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjEyNSA3LjVBNS42MjUgNS42MjUgMCAxIDAgNy41IDEzLjEyNSA1LjYzMyA1LjYzMyAwIDAgMCAxMy4xMjUgNy41WiIvPgogIDxwYXRoIGZpbGw9IiMxQjMyNTEiIGQ9Ik0xMC4zMjUgNy41SDcuNVY0LjY3NWEuOTUuOTUgMCAwIDAtLjk1LS45NS45MjkuOTI5IDAgMCAwLS45MjUuOTV2My43NWEuOTQ1Ljk0NSAwIDAgMCAuOTI1Ljk1aDMuNzVhLjkyOS45MjkgMCAwIDAgLjkyNS0uOTUuOS45IDAgMCAwLS45LS45MjVaIi8+Cjwvc3ZnPgo=",
+        "match_quan": "8",
+        "gol_quan": "12",
+        "assist_quan": "3",
+        "minut_gol_quan": "65'",
+        "minut_quan": "750'",
+        "tropheis": [
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/4.png?lm=1520606999",
+                "trophei_name": "Победитель Лиги Чемпионов",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/318.png?lm=1731663333",
+                "trophei_name": "Чемпион мира среди клубов FIFA",
+                "trophei_quan": "1"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/11.png?lm=1520606997",
+                "trophei_name": "Чемпион Испании",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/354.png?lm=1520606999",
+                "trophei_name": "Uefa-Supercup-Sieger",
+                "trophei_quan": "2"
+            },
+            {
+                "trophei": "https://tmssl.akamaized.net//images/erfolge/header/1100.png?lm=1734608335",
+                "trophei_name": "FIFA Intercontinental Cup Winner",
+                "trophei_quan": "1"
+            },
+            {
+                "full_trophei": "https://www.transfermarkt.world/andriy-lunin/erfolge/spieler/404839"
+            }
+        ],
+        "years_old": "11 февр. 1999 г. (26",
+        "wasb_flag": "https://tmssl.akamaized.net//images/flagge/tiny/177.png?lm=1520611569",
+        "wasb_city": "Krasnograd, Kharkiv ...",
+        "country_flag": "https://tmssl.akamaized.net//images/flagge/tiny/177.png?lm=1520611569",
+        "country": "Украина",
+        "height": "1,91 м",
+        "amplua": "Вратарь",
+        "play_flag": "https://tmssl.akamaized.net//images/flagge/tiny/177.png?lm=1520611569",
+        "play_country": "Украина",
+        "match_gol": "13 / 0",
+        "on_the_team": "01 июля 2018 г.",
+        "contract_until": "30 июня 2030 г.",
+        "player_price": "20,00"
+    }
+    
+]
