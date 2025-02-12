@@ -16,8 +16,8 @@ function closeVideo() {
 
 async function mainFunc() {
     try {
-        const response = await fetch('../data/tropheis.json')
-        const data = await response.json()
+        const response = await fetch('../data/tropheis.json');
+        const data = await response.json();
         const videoFunc = (index = 0) => {
             openVideo();
             backVideo.innerHTML = `
