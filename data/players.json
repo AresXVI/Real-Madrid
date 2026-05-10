@@ -24,7 +24,7 @@
         {
             "rating": 96,
             "position": "LW",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/500px-Flag_of_Brazil.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa25/img/players/p50570442.png?fm=png&ixlib=java-2.1.0&verzion=1&w=252&s=ee54f0379b8eb638ccd8a98268826bd5",
             "player_name": "Vini Jr",
@@ -38,7 +38,7 @@
         {
             "rating": 93,
             "position": "RW",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/500px-Flag_of_Brazil.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://www.fifarosters.com/assets/players/fifa24/dynamic/151238756.png",
             "player_name": "Rodrigo",
@@ -52,7 +52,7 @@
         {
             "rating": 88,
             "position": "ST",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/500px-Flag_of_Brazil.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://game-assets.fut.gg/2025/player-item/25-272505.4c0b64db957f6645d4adb662ceac39a44175bcbf44586bac9f58778042e37458.webp?quality=100&width=500",
             "player_name": "Endrick",
@@ -68,7 +68,7 @@
         {
             "rating": 88,
             "position": "CAM",
-            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/800px-Flag_of_Morocco.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/500px-Flag_of_Morocco.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa25/img/players/p67340274.png?fm=png&ixlib=java-2.1.0&verzion=1&w=252&s=f8ad65656a5aed3fa73c4cd38b62b0e3",
             "player_name": "Brahim",
@@ -96,7 +96,7 @@
         {
             "rating": 96,
             "position": "CM",
-            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/2560px-Flag_of_Uruguay.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/500px-Flag_of_Uruguay.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa25/img/players/p67347917.png?fm=png&ixlib=java-2.1.0&verzion=2&w=485&s=2ebb181c18bad9937a3ff3dcbbfd3290",
             "player_name": "Valverde",
@@ -110,7 +110,7 @@
         {
             "rating": 91,
             "position": "CM",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/640px-Flag_of_France.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa24/img/players/p84134323.png?fm=png&ixlib=java-2.1.0&w=224&s=9498251527ba2c37919a7cd7ed247c16",
             "player_name": "Camgvinga",
@@ -138,7 +138,7 @@
         {
             "rating": 91,
             "position": "CM",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/640px-Flag_of_France.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa25/img/players/p50573285.png?fm=png&ixlib=java-2.1.0&verzion=2&w=252&s=38b74051cc4637a307c4552f28f3620f",
             "player_name": "Tchouaméni",
@@ -152,7 +152,7 @@
         {
             "rating": 96,
             "position": "CM",
-            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/500px-Flag_of_Turkey.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa24/img/players/p50595957.png?fm=png&ixlib=java-2.1.0&w=224&s=a18f90e635d8e62d929760ef518de873",
             "player_name": "Arda Güler",
@@ -166,7 +166,7 @@
         {
             "rating": 89,
             "position": "CM",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/500px-Flag_of_Spain.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn.futwiz.com/assets/img/fifa23/faces/50554157.png",
             "player_name": "Dani Ceballos",
@@ -182,7 +182,7 @@
         {
             "rating": 95,
             "position": "LB",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/640px-Flag_of_France.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn.futwiz.com/assets/img/fifa20/faces/84114698.png",
             "player_name": "Mendy",
@@ -196,7 +196,7 @@
         {
             "rating": 96,
             "position": "CB",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/330px-Flag_of_Germany.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa25/img/players/p50537100.png?fm=png&ixlib=java-2.1.0&verzion=1&w=485&s=867d0fc3d0e2912cc2e69b1ec3750e3b",
             "player_name": "Rüdiger",
@@ -210,7 +210,7 @@
         {
             "rating": 93,
             "position": "RB",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/500px-Flag_of_Spain.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa24/img/players/p84091043.png?fm=png&ixlib=java-2.1.0&w=224&s=b0ef1892a10bd0e044e75d1e25d841bf",
             "player_name": "Carvajal",
@@ -224,7 +224,7 @@
         {
             "rating": 85,
             "position": "LB",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/500px-Flag_of_Spain.svg.pngg",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://fifaprizee.com/assets/cards/download_24/p246606_WF24_LIVE.png",
             "player_name": "Franc García",
@@ -238,7 +238,7 @@
         {
             "rating": 89,
             "position": "CB",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/500px-Flag_of_Spain.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "../img/raul_asencio.jpg",
             "player_name": "Raúl Asencio",
@@ -252,7 +252,7 @@
         {
             "rating": 93,
             "position": "RB",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/500px-Flag_of_Spain.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://static.wefut.com/assets/images/fut24/playeravatars/custom/67317482.png",
             "player_name": "Lucas Vásquez",
@@ -266,7 +266,7 @@
         {
             "rating": 94,
             "position": "CB",
-            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/500px-Flag_of_Austria.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://cdn3.futbin.com/content/fifa24/img/players/p67306309.png?fm=png&ixlib=java-2.1.0&w=224&s=87c194794c054219754d58816a383050",
             "player_name": "Alaba",
@@ -280,7 +280,7 @@
         {
             "rating": 95,
             "position": "CB",
-            "country": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/500px-Flag_of_Brazil.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://static.wefut.com/assets/images/fut22/playeravatars/custom/67348994.png",
             "player_name": "Éder Militão",
@@ -310,7 +310,7 @@
         {
             "rating": 94,
             "position": "GK",
-            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1200px-Flag_of_Ukraine.svg.png",
+            "country": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/500px-Flag_of_Ukraine.svg.png",
             "club": "../img/Real Madrid LOGO.jpg",
             "avatar": "https://preview.redd.it/97jvmmwbxztc1.png?auto=webp&s=3dbf0e5b22ae542e9b07def1fc75575e2e511829",
             "player_name": "Lunin",
